@@ -90,6 +90,12 @@ $ sudo apt-get install graphviz
 Windows users have to [download GraphViZ for Windows](http://www.graphviz.org/Download_windows.php) and remaining
 users should install from [GraphViz homepage](http://www.graphviz.org/Download.php).
 
+macOS users can use [Homebrew](https://brew.sh/) to install via following command 
+
+```bash
+$ brew install graphviz
+```
+
 That's it already. You can now verify everything works by running this:
 
 ```bash
